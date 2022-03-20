@@ -1,0 +1,565 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Burger bò nướng whopper",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/b/b/bb_whopper-v1-min.png",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 105000,
+            "sl": 1
+        },
+        {
+            "id": 2,
+            "name": "Burger bò nướng khoai tây lát",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/1/0/10-burger-khoai-t_y-lat.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 53000,
+            "sl": 1
+        },
+        {
+            "id": 3,
+            "name": "Burger gà nướng",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/t/e/tender_grilled.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 69000,
+            "sl": 1
+        },
+        {
+            "id": 4,
+            "name": "Burger gà giòn cay",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/t/e/tender_crisp.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 69000,
+            "sl": 1
+        },
+        {
+            "id": 5,
+            "name": "Burger phô mai gà",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/n/cnc_1.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 49000,
+            "sl": 1
+        },
+        {
+            "id": 6,
+            "name": "Bò tắm phô mai (bánh lớn)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/1/7/17-whopper-b_-t_m-ph_-mai-c_-l_n.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 119000,
+            "sl": 1
+        },
+        {
+            "id": 7,
+            "name": "Combo bò tắm phô mai (bánh vừa)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/3/2/32-combo-whopper-jr-b_-t_m-ph_-mai-c_-v_a.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 89000,
+            "sl": 1
+        },
+        {
+            "id": 8,
+            "name": "Burger bò khoai giòn tràn phô mai (bánh lớn)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/r/crunchy_whp-min_1.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 142000,
+            "sl": 1
+        },
+        {
+            "id": 9,
+            "name": "Burger bò nướng whopper jr.",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/7/-/7-burger-b_-n_ng-whopper-jr.jpg",
+            "idmenu": 1,
+            "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+            "price": 51000,
+            "sl": 1
+        },
+        {
+            "id": 10,
+            "name": "Gà giòn không cay (1 miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/1/-/1-mieng-ga-gion-ko-cay.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 36000,
+            "sl": 1
+        },
+        {
+            "id": 11,
+            "name": "Combo gà rán giòn cay (2 miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-2-mieng-ga-gion-cay.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 90000,
+            "sl": 1
+        },
+        {
+            "id": 12,
+            "name": "Combo gà bbq (2 miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-2-canh-ga-bbq.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 90000,
+            "sl": 1
+        },
+        {
+            "id": 13,
+            "name": "Combo gà rán giòn cay (3 miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-3-mieng-ga-gion-cay_1.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 119000,
+            "sl": 1
+        },
+        {
+            "id": 14,
+            "name": "Combo gà bbq (3 miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-3-canh-ga-bbq.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 119,
+            "sl": 1
+        },
+        {
+            "id": 15,
+            "name": "GÀ RÁN GIÒN CAY (1 Miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/1/-/1-mieng-ga-gion--cay.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 36000,
+            "sl": 1
+        },
+        {
+            "id": 16,
+            "name": "GÀ BBQ (1 Miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/1/-/1-canh-ga-bbq.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 39000,
+            "sl": 1
+        },
+        {
+            "id": 17,
+            "name": "Combo Gà Giòn Không Cay (2 Miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-2-mieng-ga-gion-ko-cay.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 90000,
+            "sl": 1
+        },
+        {
+            "id": 18,
+            "name": "Combo Gà Giòn Không Cay (3 Miếng)",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-3-mieng-ga-gion-ko-cay.jpg",
+            "idmenu": 2,
+            "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+            "price": 119000,
+            "sl": 1
+        },
+        {
+            "id": 19,
+            "name": "NƯỚC SUỐI1",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/n/_/n_c_su_i.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        },
+        {
+            "id": 20,
+            "name": "NƯỚC CAM",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/m/i/minutemaid.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        },
+        {
+            "id": 21,
+            "name": "MILO",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/m/i/milo.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        },
+        {
+            "id": 22,
+            "name": "Nước Xoài Đào",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/s/j/sjora_-_xo_i_o.jpeg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 25000,
+            "sl": 1
+        },
+        {
+            "id": 23,
+            "name": "TRÀ CHANH",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/n/e/nesttea.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        },
+        {
+            "id": 24,
+            "name": "COCA",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/coke_bottle.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        },
+        {
+            "id": 25,
+            "name": "FANTA",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/f/a/fanta_bottle.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        },
+        {
+            "id": 26,
+            "name": "SPRITE",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/s/p/sprite_bottle.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        },
+        {
+            "id": 27,
+            "name": "SPRITE",
+            "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/cokelight.jpg",
+            "idmenu": 3,
+            "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+            "price": 19000,
+            "sl": 1
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "name": "Hambuger",
+            "img": "https://burgerking.vn/media/wysiwyg/navigation/P-BURGER.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Gà rán",
+            "img": "https://burgerking.vn/media/wysiwyg/navigation/P-GA-RAN.jpg"
+        },
+        {
+            "id": 3,
+            "name": "thức uống",
+            "img": "https://burgerking.vn/media/wysiwyg/navigation/P-THUC-UONG.jpg"
+        }
+    ],
+    "binhluan": [
+        {
+            "idk": 2,
+            "name": "nhan",
+            "idm": 1,
+            "noidung": "mon nay ngon xuat sac"
+        },
+        {
+            "idk": 2,
+            "name": "nhan",
+            "idm": "1",
+            "noidung": "đấ"
+        },
+        {
+            "idk": 2,
+            "name": "nhan",
+            "idm": "1",
+            "noidung": "qưeqeq"
+        },
+        {
+            "idk": 2,
+            "name": "nhan",
+            "idm": "2",
+            "noidung": "fas"
+        },
+        {
+            "idk": 2,
+            "name": "nhan",
+            "idm": "2",
+            "noidung": "dseradas"
+        },
+        {
+            "idk": 3,
+            "name": "helo22222",
+            "idm": "1",
+            "noidung": "ngon"
+        },
+        {
+            "idk": 2,
+            "name": "minh nhan1",
+            "idm": "1",
+            "noidung": "ngon the"
+        },
+        {
+            "idk": 1,
+            "name": "hary123",
+            "idm": "1",
+            "noidung": "dao hang nhanh"
+        },
+        {
+            "idk": 4,
+            "name": "adasdas",
+            "idm": "1",
+            "noidung": "adadasda"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "hary123",
+            "email": "helo@gmail.com",
+            "pass": "123456",
+            "daichi": "12 trịnh đình thảo"
+        },
+        {
+            "id": 2,
+            "name": "minh nhan1",
+            "email": "helo1@gmail.com",
+            "pass": "123456",
+            "daichi": "ABC XYZ"
+        },
+        {
+            "id": 3,
+            "name": "helo22222",
+            "email": "helo2@gmail.com",
+            "pass": "123456",
+            "daichi": "tp hồ chí minh"
+        },
+        {
+            "id": 4,
+            "name": "ádawdasda",
+            "email": "aaa@gmail.com",
+            "pass": "123",
+            "daichi": "adasdaa"
+        }
+    ],
+    "hoadon": [
+        {
+            "id": 12,
+            "idk": 1,
+            "sl": 3,
+            "tt": 160000,
+            "ngaymua": "17:20:11|18/3/2022",
+            "cart": [
+                {
+                    "id": 1,
+                    "name": "Burger bò nướng whopper",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/b/b/bb_whopper-v1-min.png",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 105000,
+                    "sl": 1
+                },
+                {
+                    "id": 10,
+                    "name": "Gà giòn không cay (1 miếng)",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/1/-/1-mieng-ga-gion-ko-cay.jpg",
+                    "idmenu": 2,
+                    "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+                    "price": 36000,
+                    "sl": 1
+                },
+                {
+                    "id": 20,
+                    "name": "NƯỚC CAM",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/m/i/minutemaid.jpg",
+                    "idmenu": 3,
+                    "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+                    "price": 19000,
+                    "sl": 1
+                }
+            ],
+            "ttr": 2
+        },
+        {
+            "id": 13,
+            "idk": 1,
+            "sl": 7,
+            "tt": 515000,
+            "ngaymua": "17:28:58|18/3/2022",
+            "cart": [
+                {
+                    "id": 1,
+                    "name": "Burger bò nướng whopper",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/b/b/bb_whopper-v1-min.png",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 105000,
+                    "sl": 2
+                },
+                {
+                    "id": 3,
+                    "name": "Burger gà nướng",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/t/e/tender_grilled.jpg",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 69000,
+                    "sl": 3
+                },
+                {
+                    "id": 5,
+                    "name": "Burger phô mai gà",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/n/cnc_1.jpg",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 49000,
+                    "sl": 2
+                }
+            ],
+            "ttr": 1
+        },
+        {
+            "id": 14,
+            "idk": 3,
+            "sl": 7,
+            "tt": 579000,
+            "ngaymua": "18:58:23|18/3/2022",
+            "cart": [
+                {
+                    "id": 1,
+                    "name": "Burger bò nướng whopper",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/b/b/bb_whopper-v1-min.png",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 105000,
+                    "sl": 4
+                },
+                {
+                    "id": 2,
+                    "name": "Burger bò nướng khoai tây lát",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/1/0/10-burger-khoai-t_y-lat.jpg",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 53000,
+                    "sl": 3
+                }
+            ],
+            "ttr": 1
+        },
+        {
+            "id": 15,
+            "idk": 1,
+            "sl": 7,
+            "tt": 269000,
+            "ngaymua": "13:22:10|19/3/2022",
+            "cart": [
+                {
+                    "id": 2,
+                    "name": "Burger bò nướng khoai tây lát",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/1/0/10-burger-khoai-t_y-lat.jpg",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 53000,
+                    "sl": 4
+                },
+                {
+                    "id": 20,
+                    "name": "NƯỚC CAM",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/m/i/minutemaid.jpg",
+                    "idmenu": 3,
+                    "mota": "Thức uống hay đồ uống là một loại chất lỏng được đặc biệt chế biến để con người có thể tiêu thụ, có tác dụng giải nhiệt và giải khát.",
+                    "price": 19000,
+                    "sl": 3
+                }
+            ],
+            "ttr": 0
+        },
+        {
+            "id": 16,
+            "idk": 2,
+            "sl": 6,
+            "tt": 429000,
+            "ngaymua": "9:0:18|20/3/2022",
+            "cart": [
+                {
+                    "id": 2,
+                    "name": "Burger bò nướng khoai tây lát",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/1/0/10-burger-khoai-t_y-lat.jpg",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 53000,
+                    "sl": 3
+                },
+                {
+                    "id": 12,
+                    "name": "Combo gà bbq (2 miếng)",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo-2-canh-ga-bbq.jpg",
+                    "idmenu": 2,
+                    "mota": "Gà rán truyền thống được tẩm một lớp bột, rán dưới nhiệt độ vừa đủ, mang đến món gà rán truyền thống ngon từ thịt, giòn từ vỏ ",
+                    "price": 90000,
+                    "sl": 3
+                }
+            ],
+            "ttr": 1
+        },
+        {
+            "id": 17,
+            "idk": 2,
+            "sl": 2,
+            "tt": 158000,
+            "ngaymua": "9:18:34|20/3/2022",
+            "cart": [
+                {
+                    "id": 1,
+                    "name": "Burger bò nướng whopper",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/b/b/bb_whopper-v1-min.png",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 105000,
+                    "sl": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Burger bò nướng khoai tây lát",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/1/0/10-burger-khoai-t_y-lat.jpg",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 53000,
+                    "sl": 1
+                }
+            ],
+            "ttr": 0
+        },
+        {
+            "id": 18,
+            "idk": 4,
+            "sl": 1,
+            "tt": 105000,
+            "ngaymua": "14:31:25|20/3/2022",
+            "cart": [
+                {
+                    "id": 1,
+                    "name": "Burger bò nướng whopper",
+                    "img": "https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/b/b/bb_whopper-v1-min.png",
+                    "idmenu": 1,
+                    "mota": "HAMBURGER thật tiện lợi và thơm ngon. Nó là món ăn nhanh phù hợp với mọi lứa tuổi. Vừa nhanh vừa ngon vừa an toàn vệ sinh thực phẩm. Mang lại cảm giác yên tâm cho khách hàng.",
+                    "price": 105000,
+                    "sl": 1
+                }
+            ],
+            "ttr": 3
+        }
+    ],
+    "admin": [
+        {
+            "id": 1,
+            "name": "admin",
+            "email": "admin@gmail.com",
+            "pass": 123456
+        }
+    ]
+}
