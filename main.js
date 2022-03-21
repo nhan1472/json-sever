@@ -418,7 +418,8 @@ server.get('/products', (req, res) => {
       res.json(a)
       return
     })
+const PORT = process.env.PORT || 3000;
 server.use(router)
-server.listen(3000, () => {
+server.listen(PORT, () => {
   console.log('sever dang chay')
 })
